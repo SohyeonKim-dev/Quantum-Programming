@@ -1,2 +1,2 @@
-# Quantum-Programming
+# Quantum Programming Study
 Quantum-Programming
